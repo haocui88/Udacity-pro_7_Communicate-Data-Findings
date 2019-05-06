@@ -8,7 +8,7 @@ The first part of this analysis examines global and regional temperature trends 
 The second part of the study draws relationships between climate parameters using statistical regression. California into temperature anomalies in California and how these may be correlated to atmospheric carbon dioxide levels and Palmer Drought Severity Index (PDSI) values, which use temperature and precipitation data to quantify long-term drought events. PDSI values can range anywhere from -10 (extreme dry conditions) and +10 (extreme wet conditions)
 ### Datasets:
 There are 4 datasets I scraped from the internet and used in the report
->*1.	Global SST https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
->*2.	CITY/COUNTY SST https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
->*3.	CO2 atm level https://www.kaggle.com/ucsandiego/carbon-dioxide
->*4.	PDSI https://www.esrl.noaa.gov/psd/data/index.html
+>  1.	Global SST https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+>  2.	CITY/COUNTY SST https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+>  3.	CO2 atm level https://www.kaggle.com/ucsandiego/carbon-dioxide
+>  4.	PDSI https://www.esrl.noaa.gov/psd/data/index.html
